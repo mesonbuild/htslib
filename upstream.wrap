@@ -1,0 +1,9 @@
+[wrap-file]
+directory = htslib-1.10.2
+
+source_url = https://github.com/samtools/htslib/archive/1.10.2.zip
+source_filename = htslib-1.10.2.zip
+source_hash = f7994e9636f8a4032dea477a8613f5f73b330c23b5538e45666ce7306240ac14
+
+[provide]
+htslib = htslib_dep
